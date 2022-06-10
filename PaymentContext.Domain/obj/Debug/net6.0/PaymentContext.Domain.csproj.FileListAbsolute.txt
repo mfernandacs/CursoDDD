@@ -1,0 +1,15 @@
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.deps.json
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.dll
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.pdb
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.dll
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\refint\PaymentContext.Domain.dll
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.pdb
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\ref\PaymentContext.Domain.dll
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.dll
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.pdb
+C:\Users\Turtle\Desktop\Cursos\Balta\Modelando Dominios Ricos\PaymentConext\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.CopyComplete

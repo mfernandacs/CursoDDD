@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PaymentContext.Domain\\Entities",
+    "\\PaymentContext.Shared",
+    "\\PaymentContext.Shared\\Entities",
+    "\\PaymentContext.Shared\\ValueObjects"
+  ],
+  "SelectedNode": "\\PaymentContext.Shared\\Entities\\Entity.cs",
+  "PreviewInSolutionExplorer": false
+}

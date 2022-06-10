@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LuGNmR79V2EKl1NqO+wDDs3GMTuvJ6FcG7kYpci+nGzMdKCexHXYBtanch0f2uBpniY73yt8ifovnMKBBGoZ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Turtle\\Desktop\\Cursos\\Balta\\Modelando Dominios Ricos\\PaymentConext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Turtle\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
